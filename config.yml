@@ -1,0 +1,18 @@
+params:
+  profileMode:
+    enabled: true
+    title: "Prakash Jha"
+    subtitle: "Green Hydrogen | Energy Policy | Project Management"
+    imageUrl: ""
+    imageTitle: "Prakash Jha"
+    imageWidth: 120
+    imageHeight: 120
+
+    buttons:
+      - name: About
+        url: /about/
+      - name: Experience
+        url: /experience/
+      - name: Download CV
+        url: /cv.pdf
+

@@ -1,0 +1,34 @@
+baseURL = "https://prakashjha.co.in/"
+languageCode = "en-us"
+title = "Prakash Jha"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "light"
+  ShowReadingTime = false
+  ShowShareButtons = false
+
+  [params.profileMode]
+    enabled = true
+    title = "Prakash Jha"
+    subtitle = "Green Hydrogen | Energy Policy | Project Management"
+    imageUrl = ""
+    imageTitle = "Prakash Jha"
+    imageWidth = 120
+    imageHeight = 120
+
+    [[params.profileMode.buttons]]
+      name = "Experience"
+      url = "/experience/"
+
+    [[params.profileMode.buttons]]
+      name = "Projects"
+      url = "/projects/"
+
+    [[params.profileMode.buttons]]
+      name = "Publications"
+      url = "/publications/"
+
+    [[params.profileMode.buttons]]
+      name = "About"
+      url = "/about/"
